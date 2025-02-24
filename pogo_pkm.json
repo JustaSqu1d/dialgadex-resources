@@ -32651,7 +32651,9 @@
         },
         "fm": [
             "Dragon Tail",
-            "Shadow Claw"
+            "Shadow Claw",
+            "Dragon Breath",
+            "Ice Fang"
         ],
         "cm": [
             "Iron Head",
@@ -32714,7 +32716,9 @@
         "fm": [
             "Dragon Breath",
             "Steel Wing",
-            "Ice Fang"
+            "Ice Fang",
+            "Dragon Tail",
+            "Shadow Claw"
         ],
         "cm": [
             "Dragon Pulse",
