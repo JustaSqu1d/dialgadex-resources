@@ -106,6 +106,14 @@
         "shadow_released": true
     },
     {
+        "id": 359,
+        "name": "Absol",
+        "form": "Normal",
+        "elite_cm": [
+            "Brutal Swing"
+        ]
+    },
+    {
         "id": 383,
         "name": "Groudon",
         "form": "Normal",
@@ -413,6 +421,14 @@
         "shadow_released": true
     },
     {
+        "id": 584,
+        "name": "Vanilluxe",
+        "form": "Normal",
+        "elite_cm": [
+            "Avalanche"
+        ]
+    },
+    {
         "id": 588,
         "name": "Karrablast",
         "form": "Normal",
@@ -458,6 +474,14 @@
             "Ice Burn"
         ],
         "released": true
+    },
+    {
+        "id": 649,
+        "name": "Genesect",
+        "form": "Normal",
+        "elite_cm": [
+            "Techno Blast Normal"
+        ]
     },
     {
         "id": 672,
@@ -685,6 +709,21 @@
         ],
         "elite_cm": [
             "Frenzy Plant"
+        ]
+    },
+    {
+        "id": 911,
+        "name": "Skeledirge",
+        "form": "Normal",
+        "cm": [
+            "Flamethrower",
+            "Disarming Voice",
+            "Crunch",
+            "Shadow Ball",
+            "Torch Song"
+        ],
+        "elite_cm": [
+            "Blast Burn"
         ]
     },
     {
