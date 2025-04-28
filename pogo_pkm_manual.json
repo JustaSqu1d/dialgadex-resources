@@ -138,6 +138,13 @@
     {
         "id": 483,
         "name": "Dialga",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
+        "id": 483,
+        "name": "Dialga",
         "form": "Origin",
         "elite_cm": [
             "Roar Of Time"
