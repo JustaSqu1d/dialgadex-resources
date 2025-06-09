@@ -2076,11 +2076,11 @@
         "duration": 3300,
         "damage_window_start": 1880,
         "damage_window_end": 3200,
-        "energy_delta": -100
+        "energy_delta": -50
     },
     {
         "name": "Crush Grip",
-        "type": "Dragon",
+        "type": "Normal",
         "power": 210,
         "duration": 1800,
         "damage_window_start": 700,
