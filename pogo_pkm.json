@@ -19627,7 +19627,8 @@
         "cm": [
             "Giga Impact",
             "Focus Blast",
-            "Thunder"
+            "Thunder",
+            "Crush Grip"
         ],
         "shadow": true,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -35992,7 +35993,8 @@
         "cm": [
             "Hyper Beam",
             "Thunder",
-            "Zap Cannon"
+            "Zap Cannon",
+            "Thunder Cage"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -36018,7 +36020,8 @@
             "Hyper Beam",
             "Outrage",
             "Dragon Pulse",
-            "Breaking Swipe"
+            "Breaking Swipe",
+            "Dragon Energy"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
